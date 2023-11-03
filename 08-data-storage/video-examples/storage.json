@@ -1,0 +1,13 @@
+{
+  "logs": [
+    "testing",
+    "http://localhost:8000/",
+    "http://localhost:8000/favicon.ico",
+    "http://localhost:8000/monkey",
+    "http://localhost:8000/favicon.ico",
+    "http://localhost:8000/pandas",
+    "http://localhost:8000/favicon.ico",
+    "http://localhost:8000/dogs",
+    "http://localhost:8000/favicon.ico"
+  ]
+}
