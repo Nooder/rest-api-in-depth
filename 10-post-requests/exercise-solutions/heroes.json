@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Batman", "cool": false },
+  { "id": 288, "name": "Wonder Woman", "cool": true },
+  { "id": 307, "name": "Superman", "cool": true }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": 1, "type": "Moose", "count": 30 },
+  { "id": 876, "type": "monkey", "count": 1000 },
+  { "id": 502, "type": "frog", "count": 7 },
+  { "id": 64, "type": "wolf", "count": 1 }
+]
