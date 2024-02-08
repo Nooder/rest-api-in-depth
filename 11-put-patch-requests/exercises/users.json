@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Boris",
+    "email": "boferris0@hexun.com"
+  },
+  {
+    "id": 2,
+    "name": "Lydon",
+    "email": "lmcguiness1@cornell.edu"
+  },
+  {
+    "id": 3,
+    "name": "Lucretia",
+    "email": "lfermor2@dmoz.org"
+  },
+  {
+    "id": 4,
+    "name": "Base",
+    "email": "bwhether3@yolasite.com"
+  },
+  {
+    "id": 5,
+    "name": "Dennet",
+    "email": "dbrodeur4@admin.ch"
+  }
+]
